@@ -55,7 +55,7 @@ struct quiz getQuiz(int number, char level[]){
         struct quiz Medium[10] = {
             {1000, "What is the capital of France?", "Paris", "Berlin", "Madrid", "Rome", 'a'},
             {2000, "What is the currency of Japan?", "Yen", "Dollar", "Euro", "Peso", 'a'},
-            {5000, "Which is the largest planet?", "Earth", "Mars", "C. Jupiter", "Venus", 'c'},
+            {5000, "Which is the largest planet?", "Earth", "Mars", "Jupiter", "Venus", 'c'},
             {10000, "Who wrote 'Hamlet'?", "Shakespeare", "Dickens", "Twain", "Rowling", 'a'},
             {20000, "What is the boiling point of water?", "100°C", "90°C", "80°C", "120°C", 'a'},
             {40000, "What is the smallest country?", "Vatican City", "Monaco", "Nauru", "San Marino", 'a'},
